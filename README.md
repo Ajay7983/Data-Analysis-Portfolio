@@ -11,12 +11,6 @@ This repository showcases my data analysis projects across various domains, incl
 ### 4. [Mobile Manufacturer Data Analysis](Mobile-Manufacturer-Data/README.md)
 ### 5. [Consumer Complaint Analysis](Consumer-Complaint-Analysis/README.md)
 
-## How to Navigate This Repository
-- Each project is contained within its own folder, which includes:
-  - A detailed `README.md` file explaining the project.
-  - Relevant files, scripts, dashboards, or notebooks.
-  - Visualizations (where applicable).
-
 ## Contact
 - **Email**: ajayrs1013@gmail.com
 - **LinkedIn**: [linkedin.com/in/ajay1013](https://linkedin.com/in/ajay1013)
