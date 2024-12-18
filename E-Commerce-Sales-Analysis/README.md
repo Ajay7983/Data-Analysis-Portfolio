@@ -1,24 +1,25 @@
 # E-Commerce Sales Analysis
 
 ## Objective
-Analyze customer purchasing behavior, pricing trends, and promotional impacts to optimize e-commerce strategies.
+Analyze customer purchasing behaviour, pricing trends, and promotional impacts to optimize e-commerce strategies.
 
-## Tools & Technologies
+## Tools
 - Power BI
 
 ## Methodology
-1. Cleaned and transformed raw sales data using Python.
-2. Conducted exploratory data analysis (EDA) to identify trends in customer behavior.
+1. Cleaned and transformed raw sales data.
+2. Conducted exploratory data analysis (EDA) to identify trends in customer behaviour.
 3. Developed an interactive Power BI dashboard for visualizing key insights.
 4. Evaluated the effectiveness of promotional campaigns.
 
 ## Key Contributions
 - Created dynamic dashboards to track key performance indicators (KPIs).
-- Identified high-performing product categories and underperforming campaigns.
+- Identified top-performing categories (Electronics: $4.1M) and brands (Apple: $2.5M) for targeted strategies.
 
 ## Results
-- Improved promotional ROI by 15% through data-driven adjustments.
-- Provided actionable insights that contributed to increased sales revenue.
+- Analyzed e-commerce sales data, driving insights for a 9.15% conversion rate and $4.7M revenue.
+- Identified top-performing categories and brands for targeted strategies.
+- Highlighted peak sale periods and balanced traffic across browser and app channels.
 
 ## Visuals
 ![Dashboard Screenshot](https://github.com/Ajay7983/Data-Analysis-Portfolio/blob/main/E-Commerce-Sales-Analysis/Dashboard.png)
