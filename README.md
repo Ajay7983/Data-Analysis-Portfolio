@@ -1,13 +1,5 @@
 # Data Analysis Portfolio  
 
-## Projects  
-- [E-Commerce Sales Analysis](E-Commerce-Sales-Analysis/README.md)  
-- [Credit Card Consumption Analysis](Credit-Card-Consumption/README.md)  
-- [Customer Review Analysis](Customer-Review-Analysis/README.md)  
-- [Mobile Manufacturer Data Analysis](Mobile-Manufacturer-Data/README.md)  
-- [Consumer Complaint Analysis](Consumer-Complaint-Analysis/README.md)
-# Data Analysis Portfolio
-
 ## Overview
 This repository showcases my data analysis projects across various domains, including e-commerce, finance, customer sentiment analysis, and more. Each project demonstrates my ability to analyze data, create visualizations, and extract actionable insights using tools like Python, Power BI, SQL, and Excel.
 
