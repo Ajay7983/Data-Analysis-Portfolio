@@ -5,7 +5,6 @@ Analyze customer purchasing behavior, pricing trends, and promotional impacts to
 
 ## Tools & Technologies
 - Power BI
-- Python
 
 ## Methodology
 1. Cleaned and transformed raw sales data using Python.
@@ -25,7 +24,6 @@ Analyze customer purchasing behavior, pricing trends, and promotional impacts to
 ![Dashboard Screenshot](link-to-image)
 
 ## Files
-- `sales_data_cleaning.ipynb`: Python notebook for data preprocessing.
 - `ecommerce_dashboard.pbix`: Power BI dashboard file.
 
 ## Future Work
