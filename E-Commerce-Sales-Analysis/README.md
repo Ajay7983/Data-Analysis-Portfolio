@@ -21,7 +21,7 @@ Analyze customer purchasing behavior, pricing trends, and promotional impacts to
 - Provided actionable insights that contributed to increased sales revenue.
 
 ## Visuals
-![Dashboard Screenshot](link-to-image)
+![Dashboard Screenshot](https://github.com/Ajay7983/Data-Analysis-Portfolio/blob/main/E-Commerce-Sales-Analysis/Dashboard.png)
 
 ## Files
 - `E-commerce_Sales_Data_Analysis.pbix`: Power BI dashboard file.
