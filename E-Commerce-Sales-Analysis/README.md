@@ -24,7 +24,7 @@ Analyze customer purchasing behavior, pricing trends, and promotional impacts to
 ![Dashboard Screenshot](link-to-image)
 
 ## Files
-- `ecommerce_dashboard.pbix`: Power BI dashboard file.
+- `E-commerce_Sales_Data_Analysis.pbix`: Power BI dashboard file.
 
 ## Future Work
 - Incorporate real-time data for continuous monitoring of sales trends.
