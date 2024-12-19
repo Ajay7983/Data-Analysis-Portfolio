@@ -1,36 +1,34 @@
-# Consumer Complaint Analysis
+# Consumer Complaint Dashboard
 
 ## Objective
-Systematize an international sports event membership roster and generate customized reports to meet business requirements across departments.
+To analyze consumer complaint data to uncover trends, optimize resolution strategies, and enhance customer satisfaction through actionable insights.
 
 ## Tools & Technologies
-- MS Excel
-
-## Methodology
-1. Consolidated and validated membership data from multiple sources.
-2. Automated reporting workflows to streamline data presentation.
-3. Analyzed patterns in membership data for decision-making support.
+- **Tools**: Microsoft Excel
+- **Techniques**: Data Visualization, Trend Analysis, Performance Tracking
 
 ## Key Contributions
-- Created dynamic Excel reports for various departmental needs.
-- Improved data accuracy by resolving inconsistencies in membership records.
+- Analyzed over **10,000 complaints** to identify patterns and trends in submission channels, resolution times, and product categories.
+- Reduced **average resolution time by 30%** from 2013 to 2016, improving customer satisfaction.
+- Discovered that **74.75% of complaints** were submitted via web channels, leading to streamlined digital response strategies.
+- Spearheaded process improvements, resulting in a **16.25% YoY reduction** in complaints in 2016.
+- Created interactive visualizations to track monthly complaint trends and resolution efficiency.
 
-## Results
-- Reduced manual reporting time by 25%.
-- Enhanced stakeholder satisfaction by delivering timely and accurate reports.
+## Results/Impact
+- Improved complaint resolution efficiency and reduced operational inefficiencies.
+- Identified and prioritized key product categories for targeted interventions, enhancing overall service quality.
+- Provided actionable insights that led to measurable improvements in customer satisfaction and complaint management processes.
+
+## Future Enhancements
+- Implement predictive analytics for better trend forecasting.
+- Automate data refresh for real-time complaint tracking.
+- Add geographic and sentiment analysis for deeper insights.
 
 ## Visuals
 ![Membership Data Summary](link-to-image)
 
-## Files
-- `membership_data.xlsx`: Processed membership data file.
-- `automated_reports_template.xlsx`: Template for automated reporting.
-
-## Future Work
-- Expand the system to include predictive analytics for membership trends.
-- Integrate a database to automate data input and reduce manual effort.
-
 ## Contact
 - **Email**: ajayrs1013@gmail.com
 - **GitHub**: [github.com/ajay7983](https://github.com/ajay7983)
+- **LinkedIn**: [linkedin.com/in/ajay1013](https://linkedin.com/in/ajay1013)
 
