@@ -1,4 +1,4 @@
-# Consumer Complaint Dashboard
+# Consumer Complaint Analysis
 
 ## Objective
 To analyze consumer complaint data to uncover trends, optimize resolution strategies, and enhance customer satisfaction through actionable insights.
@@ -25,7 +25,7 @@ To analyze consumer complaint data to uncover trends, optimize resolution strate
 - Add geographic and sentiment analysis for deeper insights.
 
 ## Visuals
-![Membership Data Summary](link-to-image)
+![Membership Data Summary](https://github.com/Ajay7983/Data-Analysis-Portfolio/blob/main/Consumer-Complaint-Analysis/Excel%20Dashboard.png)
 
 ## Contact
 - **Email**: ajayrs1013@gmail.com
