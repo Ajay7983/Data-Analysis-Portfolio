@@ -25,3 +25,7 @@ To perform an in-depth analysis of mobile manufacturer data using SQL to uncover
 - Integrate predictive analytics to forecast demand and production requirements.
 - Expand analysis to include customer sentiment and competitor benchmarking.
 
+## Contact
+- **Email**: ajayrs1013@gmail.com
+- **GitHub**: [github.com/ajay7983](https://github.com/ajay7983)
+- **LinkedIn**: [linkedin.com/in/ajay1013](https://linkedin.com/in/ajay1013)
